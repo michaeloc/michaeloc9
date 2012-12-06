@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Welcome</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Welcome">Bem Vindo ao Androide Desenvolvimento</string>
+    <string name="none"/>
+
+</resources>
